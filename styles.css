@@ -1,0 +1,37 @@
+.wrapper {
+    background-color: white;
+}
+.header {
+    margin-left: 30%;
+    margin-right: 30%;
+    width: 40%;
+}
+.content {
+    background-color: rgb(250, 227, 230);
+}
+.post {
+    margin-left: 30%;
+    margin-right: 30%;
+    width: 40%;
+    background-color: white;
+}
+.title {
+    display: flex;
+}
+.title-text{
+    width: 90%;
+    margin-left: 2%;
+}
+.title-date {
+    color: gray;
+    width: 10%;
+    text-align: right;
+    margin-right: 2%;
+}
+img {
+    width: 100%;
+    height: auto;
+}
+.comment {
+    margin: 3%;
+}
